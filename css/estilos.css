@@ -19,13 +19,32 @@ body{
 }
 
 #cabecera {
-    background: #33a;
+    background:#33a; 
     box-shadow: 0px 2px 10px 0px rgb(0,0,0,0.8); /* hace sombra */
     color: white;
-    margin: 0;
+    margin: 10px;
     padding: 0.5 em;
     font-weight: bold; /* negrita */
 }
+#cabecera p{
+    margin: 10px 0 0 60px;
+}
+ #logo {
+
+    margin: 10px ;
+    width: 20px;
+   height: 10px;
+
+}
+
+#logo img{
+
+    width: 30px;
+    height: 40px;
+    
+}
+
+
 
 #cabecera #tagline{
     padding: 0 0 0 1em ;

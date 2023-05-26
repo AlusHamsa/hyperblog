@@ -32,3 +32,11 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+
+#footer1{
+    background: #33a;
+    background-color: blanchedalmond;
+    width: 1000px;
+    height: 40px;
+    text-align: center;
+}

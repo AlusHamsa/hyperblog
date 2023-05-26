@@ -27,6 +27,13 @@ body{
     font-weight: bold; /* negrita */
 }
 
+#logo img{
+
+width: 30px;
+height: 40px;
+
+}
+
 #cabecera #tagline{
     padding: 0 0 0 1em ;
     font-weight: normal;
